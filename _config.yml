@@ -20,7 +20,7 @@ author: J55406
 ###############################################
 
 navbar-links:
-  About Me: "erm what"
+  About Me: "aboutme"
   Resources:
     - Important Annoucement: "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
     - Learn markdown: "https://www.markdowntutorial.com/"
