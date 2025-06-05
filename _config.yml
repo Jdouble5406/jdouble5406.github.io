@@ -21,10 +21,9 @@ author: J55406
 
 navbar-links:
   About Me: "aboutme"
-  Resources:
+  Links and Stuff:
     - Important Annoucement: "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  U should do: "https://otis.evanchen.cc/dash/index/"
+  U should do: "https://web.evanchen.cc/otis.html"
 
 ################
 # --- Logo --- #
