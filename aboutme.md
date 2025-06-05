@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About me
-subtitle: イントロダクション
+subtitle: NAGC
 ---
 
 im j55406
