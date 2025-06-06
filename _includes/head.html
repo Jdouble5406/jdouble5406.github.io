@@ -1,7 +1,23 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-
+  <style>
+  img.zoomable {
+    cursor: zoom-in;
+    transition: 0.3s ease;
+  }
+  img.zoomable:active {
+    position: fixed;
+    top: 0;
+    left: 0;
+    max-width: 90%;
+    max-height: 90%;
+    margin: auto;
+    z-index: 1000;
+    transform: scale(1.5);
+    cursor: zoom-out;
+  }
+  </style>
   {% capture pagetitle %}
     {%- if page.share-title -%}
       {{ page.share-title | strip_html | xml_escape }}
